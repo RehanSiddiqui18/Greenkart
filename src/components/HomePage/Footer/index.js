@@ -25,13 +25,13 @@ export default function Footer() {
             </h1>
           </div>
           <p className="md:mt-9 my-4 text-justify tracking-wide font-medium md:text-base md:w-8/12 w-11/12 mx-auto md:ml-4">
-            For Marketing/Partnerships, contact us at sujalsamai123@gmail.com
+            For Marketing/Partnerships, contact us at rehansiddi39@gmail.com
           </p>
           <h3 className="font-heading text-2xl font-bold tracking-wide w-11/12 mx-auto my-4 md:ml-4">
             GET IN TOUCH
           </h3>
           <p className="md:w-8/12 w-11/12 mx-auto md:ml-4">
-            MediCaps University, AB Road, Pigdambar, Rau, Indore (M.P.) - 453331
+            Malad West Mumbai 40095
           </p>
         </div>
         <div className="flex flex-col md:flex-row justify-between w-10/12 md:w-2/4">
